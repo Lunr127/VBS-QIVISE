@@ -10,7 +10,9 @@ In this paper, we present a quantum-inspired interactive video search engine (QI
 
 ## Approach
 
-![approach](https://raw.githubusercontent.com/nercms-mmap/VBS-QIVISE/main/assets/approach.png)
+### Quantum-Inspired Interaction for Clips Re-ranking
+![approach](https://github.com/song-wx/VBS-QIVISE/raw/main/assets/diagram.png)
+
 
 ## VBS2023 Result
 
