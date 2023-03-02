@@ -41,6 +41,14 @@ where $v_ {eva}$ is the video clip to be evaluated in the next-round, cosine(·)
 | 4MR           | 375   | 335   | 239  | 674     |
 | PERFECT MATCH | 0     | 0     | 34   | 0       |
 
+## Group Photo
+
+![group_photo](assets/group_photo.jpg)
+
+## Certificate of award 
+
+![certificates_award](assets/VBS-Best%20Newcomer.jpg)
+
 ## Citation
 
 If you find this repository useful, please consider giving ⭐ or citing:
